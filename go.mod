@@ -1,4 +1,4 @@
-module go-opendmarc
+module github.com/ncsham/go-opendmarc
 
 go 1.22.4
 
